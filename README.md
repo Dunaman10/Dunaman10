@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Syarif Hidayatullah**.\
+
+Saya pernah belajar di [Dicoding](https://www.dicoding.com/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/syarif-hidayatullah-0b5069236/)ku ya.
